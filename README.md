@@ -1,7 +1,6 @@
-# Vue 3 + Vite
+# Vue 3 + Particles Js
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Code with the basic structute of a Vue 3 project and ParticlesJs, the important part are the 2 particles dependencies (vue3-particles, tsparticles) with their imports in the main and local file and the variable option with all the particles settings, like size, color, etc.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- npm install
+- npm run dev 
